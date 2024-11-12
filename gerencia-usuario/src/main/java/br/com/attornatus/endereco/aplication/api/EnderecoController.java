@@ -10,7 +10,7 @@ import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
 
-@RestController
+//@RestController
 @Log4j2
 @RequiredArgsConstructor
 public class EnderecoController implements EnderecoAPI {
